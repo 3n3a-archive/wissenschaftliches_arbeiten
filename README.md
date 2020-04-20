@@ -1,8 +1,8 @@
 # Wissenschaftliches Arbeiten
 Resourcen Rund um das wissenschaftliche Arbeiten
 
-## [HTML]()
+## [HTML](gh.enea.software/wissenschaftliches_arbeiten/assets/wa/Wissenschaftliche_Arbeiten.html)
 
-## [PDF]()
+## [PDF](gh.enea.software/wissenschaftliches_arbeiten/assets/wa/Wissenschaftliche_Arbeiten.pdf)
 
 ## [MD](Wissenschaftlich_Arbeiten.md)
