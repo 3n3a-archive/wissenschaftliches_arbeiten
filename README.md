@@ -1,2 +1,2 @@
-# wissenschaftliches_arbeiten
- Resourcen Rund um das wissenschaftliche Arbeiten
+# Github Pages
+Here one shall find the mighty github pages files.
