@@ -100,7 +100,7 @@ Im Anhang befinden sich allfällige Codebases, Datenquellen, usw.
 [**PDF**](assets/pdf/KSA_Maturaarbeit_Leitfaden_2017.pdf)
 
 ## Zitieren
-
+_Coming Soon_
 
 ## Textsatz Varianten
 ### Markdown
