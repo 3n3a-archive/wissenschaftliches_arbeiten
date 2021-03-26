@@ -6,7 +6,7 @@
 ### Abstract
 - 1⁄2 bis max. 1 Seite (ca. 250 Worte)
 - das Abstract ist eine Kurzform der Arbeit und soll der recherchierenden Person die
-Entscheidung ermöglichen, ob die Arbeit das gewünschte Thema bespricht oder nicht.
+Entscheidung ermöglichen, ob die Arbeit das gewünschte Thema bespricht oder nicht.
 - das Abstract kann die Struktur der Gesamt-Arbeit haben: theoretical background,
 methods, results, conclusion.
 - Hier muss rein: Motivation (weshalb), Hintergrund, Fragestellung, Methodik, Resultate,
@@ -16,11 +16,11 @@ Diskussion, Interpretation
 **Einleitung**
 
 - aktueller Stand des Wissens
-- die Einleitung soll die das Problem darstellen, um das es geht: Was ist relevant, interessant, fragwürdig?
-- Den Gegenstand präzisieren und eingrenzen (worum geht es genau?)
+- die Einleitung soll die das Problem darstellen, um das es geht: Was ist relevant, interessant, fragwürdig?
+- Den Gegenstand präzisieren und eingrenzen (worum geht es genau?)
 - den Ertrag skizzieren: welches Ziel wird verfolgt?
-- Behandlungen und Voraussetzungen zur Erörterung des Themas: methodischer Zugang? Literatur? Daten?
-- Aufbau und Reihenfolge der Arbeit begründen
+- Behandlungen und Voraussetzungen zur Erörterung des Themas: methodischer Zugang? Literatur? Daten?
+- Aufbau und Reihenfolge der Arbeit begründen
 - Kann mit einer Frage zur Thematik starten, mit einer provokativen Behauptung, mit einem Erfahrungsbericht (kurz!), mit einem treffenden Zitat
 - Umschreibung Thema, Stand der Forschung, Ziel, Zweck, Hintergrund der Arbeit, relevante Theorien und Hypothesen, Methode, Abgrenzungen
 - Umfang: maximal 2 Seiten
@@ -28,56 +28,56 @@ Diskussion, Interpretation
 
 **Theorieteil**
 
-- ist bei grösseren Arbeiten eigenes Kapitel
-- was braucht Leserin an theoretischem Rüstzeug, um die weitere Arbeit nachvollziehen
-zu können?
+- ist bei grösseren Arbeiten eigenes Kapitel
+- was braucht Leserin an theoretischem Rüstzeug, um die weitere Arbeit nachvollziehen
+zu können?
 - Stand der Forschung
-- Begriffsklärungen
+- Begriffsklärungen
 - Summary
 
 ### Methods
 - Fragestellung, Hypothesen, Methoden und Ergebnisse sind in diesen beiden Kapiteln abzuhandeln
 - Im Hauptteil wird die in der Einleitung beschriebene Fragestellung in Auseinandersetzung mit den beigezogenen Literaturquellen oder auf dem Hintergrund eigener Datenerhebungen bearbeitet.
-- Literaturarbeit: Bearbeitung der für die Fragestellung relevante Literatur., Darstellung verschiedener Ansätze, Diskussion der verschiedenen Standpunkte
-- Empirische Arbeit: Darstellung der für die Fragestellung relevanten theoretischen Grundlagen Ableitung der Fragestellung, Beschreibung des forschungsmethodischen Vorgehens, mit der Daten erhoben werden, Datenaufbereitung und Datenauswertung
+- Literaturarbeit: Bearbeitung der für die Fragestellung relevante Literatur., Darstellung verschiedener Ansätze, Diskussion der verschiedenen Standpunkte
+- Empirische Arbeit: Darstellung der für die Fragestellung relevanten theoretischen Grundlagen Ableitung der Fragestellung, Beschreibung des forschungsmethodischen Vorgehens, mit der Daten erhoben werden, Datenaufbereitung und Datenauswertung
 - Untersuchungsteilnehmende
 - Untersuchungsplan (subjects)
 - Untersuchungsplan (Design)
 - Untersuchungsbedingungen, - materialien
-- Geräte, Apparate
-- Untersuchungsdurchführung
+- Geräte, Apparate
+- Untersuchungsdurchführung
 	
 ### Results
 - Beschreibung / Darlegung der deskriptiven Statistik
-- Darstellung der Hypothesenprüfung
-- vollständig, ohne inhaltliche Bewertung
-- welche Hypothesen wurden bestätigt, welche nicht?
+- Darstellung der Hypothesenprüfung
+- vollständig, ohne inhaltliche Bewertung
+- welche Hypothesen wurden bestätigt, welche nicht?
 	
 ### Discussion
 - Kurzzusammenfassung aller Resultate
-- Methodische Überlegungen und Einschränkungen
+- Methodische Überlegungen und Einschränkungen
 - Interpretation der Ergebnisse
 - Keine neuen Theorien, keine Abbildungen und Tabellen mehr
-- Schlüsse
+- Schlüsse
 - Klinische Relevanz
 - Kritik
 - Ausblick
 - Kann unterteilt werden in: Zusammenfassung und Beantwortung der Fragestellung,
-Interpretation der Fragestellung, Auseinandersetzung mit Methode und Studiendesign, weiterführender Ausblick
+Interpretation der Fragestellung, Auseinandersetzung mit Methode und Studiendesign, weiterführender Ausblick
 	
 ### Literatur
-- soll gemäss Unterlagen „wissenschaftliches Arbeiten“ gestaltet sein
-- nur Literatur aufführen, die in der Arbeit verwendet respektive zitiert wurden.
+- soll gemäss Unterlagen „wissenschaftliches Arbeiten“ gestaltet sein
+- nur Literatur aufführen, die in der Arbeit verwendet respektive zitiert wurden.
 
 ### Anhang
-- Anhang enthält zusätzliche Unterlagen, die in der Arbeit erwähnt werden, aber die Übersichtlichkeit und den Umfang der Arbeit stören würden (Fragebögen, Zusammenfassungen, ausgewählte Publikationen etc.)
-- Sind es mehrere Anhänge, sind sie mit a, B, C etc zu kennzeichnen.
-- Im Text auf diese Anhänge hinweisen!
-- Zu Beginn der Anhänge steht ein Anhangsverzeichnis
+- Anhang enthält zusätzliche Unterlagen, die in der Arbeit erwähnt werden, aber die Übersichtlichkeit und den Umfang der Arbeit stören würden (Fragebögen, Zusammenfassungen, ausgewählte Publikationen etc.)
+- Sind es mehrere Anhänge, sind sie mit a, B, C etc zu kennzeichnen.
+- Im Text auf diese Anhänge hinweisen!
+- Zu Beginn der Anhänge steht ein Anhangsverzeichnis
 
 --
 ### *Download Source*
-[**PDF**](assets/pdf/Gliederung_und_Aufbau_einer_wissenschaftlichen_Arbeit.pdf)
+[**PDF**](./assets/pdf/Gliederung_und_Aufbau_einer_wissenschaftlichen_Arbeit.pdf)
 
 ## Aufbau bei der Maturaarbeit [^3]
 ### Vorwort/Einleitung
